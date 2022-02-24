@@ -9,6 +9,8 @@ const {
 } = require("discord.js");
 const emoji = require("../../settings/emoji.json");
 
+kontol
+
 const emo = {
   Information: emoji.info,
   Filters: emoji.filters,
